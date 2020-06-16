@@ -42,7 +42,7 @@
       "SupportedInMultiActions": false,
       "Icon": "streamdeck-zoom-share-start",
       "Name": "Share Toggle",
-      "Tooltip": "Toggle Screen Sharing",
+      "Tooltip": "Bring up the share screen window, or stop sharing",
       "UUID": "com.lostdomain.zoom.sharetoggle"
     },
     {
@@ -54,7 +54,7 @@
       "SupportedInMultiActions": false,
       "Icon": "streamdeck-zoom-focus",
       "Name": "Focus",
-      "Tooltip": "Bring Zoom window to front",
+      "Tooltip": "Bring the Zoom window to the front",
       "UUID": "com.lostdomain.zoom.focus"
     },
     {
@@ -66,19 +66,7 @@
       "SupportedInMultiActions": false,
       "Icon": "streamdeck-zoom-leave",
       "Name": "Leave Meeting",
-      "Tooltip": "Leave an active meeting.",
-      "UUID": "com.lostdomain.zoom.leave"
-    },
-    {
-      "States": [
-        {
-          "Image": "streamdeck-zoom-leave"
-        }
-      ],
-      "SupportedInMultiActions": false,
-      "Icon": "streamdeck-zoom-leave",
-      "Name": "Leave Meeting",
-      "Tooltip": "Leave an active meeting.",
+      "Tooltip": "Leave an active meeting. If you're the host, this ends the meeting.",
       "UUID": "com.lostdomain.zoom.leave"
     }
   ],
