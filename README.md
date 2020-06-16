@@ -8,7 +8,7 @@ This is the code for the Zoom Plugin for the Elgato Stream Deck. With this plugi
 * Bring the Zoom client to the front and focus on it
 * Leave a meeting. If you're the host, end the meeting
 
-
+Currently, this Zoom plugin only works on macOS. It's using AppleScript to detect the status of the buttons and an alternative needs to be figured out for Windows. The code is open for pull requests for anyone who would like to do the Windows part!
 
 # Installation
 
