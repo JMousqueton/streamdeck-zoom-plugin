@@ -68,18 +68,6 @@
       "Name": "Leave Meeting",
       "Tooltip": "Leave an active meeting.",
       "UUID": "com.lostdomain.zoom.leave"
-    },
-    {
-      "States": [
-        {
-          "Image": "streamdeck-zoom-leave"
-        }
-      ],
-      "SupportedInMultiActions": false,
-      "Icon": "streamdeck-zoom-leave",
-      "Name": "Leave Meeting",
-      "Tooltip": "Leave an active meeting.",
-      "UUID": "com.lostdomain.zoom.leave"
     }
   ],
   "Author": "Martijn Smit",
