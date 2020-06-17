@@ -37,3 +37,9 @@ Here's a screenshot of how it should look:
 Now you're ready to add the Zoom actions to your Stream Deck profile of choice and start using it!
 
 ![Zoom Actions](doc/setup-streamdeck-zoom-actions.png)
+
+# Installation Video
+
+To get a visual view of the installation procedure, check out this video:
+
+[![Install video](https://img.youtube.com/vi/qS38VADIKvM/0.jpg)](https://www.youtube.com/watch?v=qS38VADIKvM)
