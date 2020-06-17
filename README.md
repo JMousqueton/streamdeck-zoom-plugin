@@ -14,7 +14,7 @@ Currently, this Zoom plugin only works on macOS. It's using AppleScript to detec
 
 To install this plugin, download the com.lostdomain.zoom.sdPlugin file and double click it to install into the Stream Deck configurator. 
 
-Before adding the actions to your Stream Deck, make sure the following shortcuts are marked as global:
+1. Before adding the actions to your Stream Deck, make sure the following shortcuts are marked as global:
 
 * Mute/Unmute My Audio
 * Start/Stop Video
@@ -24,6 +24,16 @@ Here's a screenshot of how it should look:
 
 ![Zoom Shortcuts](doc/setup-zoom-shortcuts.png)
 
-# Technical
+2. Now install the plugin by double clicking the .streamDeckPlugin file. It'll ask for confirmation to install it, click yes.
 
-The plugin uses
+3. After installing the plugin, it will ask Accessibility permissions, which it needs to control the Zoom client.
+
+![Zoom Permissions Ask](doc/setup-permissions-ask.png)
+
+4. Make sure Stream Deck is selected in the system preferences:
+
+![Zoom Permissions Config](doc/setup-permissions-config.png)
+
+Now you're ready to add the Zoom actions to your Stream Deck profile of choice and start using it!
+
+![Zoom Actions](doc/setup-streamdeck-zoom-actions.png)
